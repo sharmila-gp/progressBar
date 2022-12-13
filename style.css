@@ -24,9 +24,10 @@
 	width:300px;
 	height:300px;
 	border-radius:50%;
-		
-}
+	background-color:#9FB6CD;
+	}
 .txt{
 	font-size:50px;
 	font-weight:bold;
+	background-color:#9FB6CD;
 }
